@@ -1,8 +1,8 @@
 # Image Viewer App
-![imageViwer](https://github.com/Youcefi/javafx-image-viewer/assets/38884749/b393d261-9fc5-4a93-a122-0cf9d3085f1b)
 
-## Description
-The Image Viewer App is a simple desktop application built with JavaFX that allows you to view and perform various operations on your images. You can rotate, zoom, convert to black and white, save, and delete images.
+Image Viewer is a simple JavaFX application that allows users to view, manipulate, and manage images. It provides various operations such as rotating, zooming, converting to black and white, saving, and deleting images. 
+
+![imageViwer](https://github.com/Youcefi/javafx-image-viewer/assets/38884749/b393d261-9fc5-4a93-a122-0cf9d3085f1b)
 
 ## Features
 - View: Open and display images in various formats.
@@ -16,10 +16,6 @@ The Image Viewer App is a simple desktop application built with JavaFX that allo
 1. Clone the repository: `git clone https://github.com/Youcefi/javafx-image-viewer/`
 2. Open the project in your preferred Java IDE.
 3. Build and run the application.
-
-## Dependencies
-- JavaFX: version X.X.X
-- Java: version X.X.X
 
 ## Contributing
 Contributions are always welcome! If you have any suggestions, bug fixes, or new features to add, feel free to open an issue or submit a pull request.
